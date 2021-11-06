@@ -1,4 +1,0 @@
-# Referenced at C:\Users\User\AndroidStudioProjects\BusinessWW\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:26
--keep class androidx.core.app.CoreComponentFactory { <init>(); }
-# Referenced at C:\Users\User\AndroidStudioProjects\BusinessWW\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:26
--keep class androidx.multidex.MultiDexApplication { <init>(); }
